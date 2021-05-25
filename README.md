@@ -8,5 +8,5 @@ Compatibility: Windows (tested)
 
 Official encryption table:
 
-<img src="https://purepng.com/public/uploads/medium/purepng.com-limelimelemonhybrid-citrus-fruitroundgreenacidic-juice-1701527324283ockfu.png" align="left" width="200">
+<img src="https://2.bp.blogspot.com/-I7vYjD6JvOc/WeDtXdFFEiI/AAAAAAAAAs0/GhjQUlLpV0gUvHYIxi5xWR-bPJIto93QwCLcBGAs/s1600/VIGNERE%2BTABLE.PNG" align="left" width="200">
 
