@@ -7,5 +7,5 @@ Works by using lower ASCII characters.
 Compatibility: Windows (tested)
 
 Official encryption table:
-![image](https://user-images.githubusercontent.com/84773603/119475495-7c459b00-bd4d-11eb-9f02-7177df503b42.png = 250x)
+<img src="![image](https://user-images.githubusercontent.com/84773603/119475762-b9119200-bd4d-11eb-92c3-6fe52ec91a14.png)" width="48">
 
