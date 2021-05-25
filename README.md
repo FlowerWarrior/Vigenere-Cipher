@@ -6,7 +6,7 @@ Works by using lower ASCII characters.
 
 Compatibility: Windows (tested)
 
-What is it?
+What is Vigenere Cipher?
 https://www.geeksforgeeks.org/vigenere-cipher/
 
 Official encryption table:
