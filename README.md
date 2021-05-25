@@ -8,5 +8,5 @@ Compatibility: Windows (tested)
 
 Official encryption table:
 
-<img src="https://user-images.githubusercontent.com/84773603/119476083-042ba500-bd4e-11eb-879a-bd9b9e0edd69.png)" align="left" width="200">
+<img src="https://purepng.com/public/uploads/medium/purepng.com-limelimelemonhybrid-citrus-fruitroundgreenacidic-juice-1701527324283ockfu.png" align="left" width="200">
 
