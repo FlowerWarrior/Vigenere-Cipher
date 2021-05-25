@@ -9,7 +9,7 @@ int main()
     cout << "VIGENERE CIPHER" << endl;
     cout << "--------------" << endl;
 
-    // Get acceptable pass text
+    // Get acceptable text
     string text;
     bool acceptable = false;
     while(!acceptable){
