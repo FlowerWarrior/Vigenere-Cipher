@@ -8,5 +8,5 @@ Compatibility: Windows (tested)
 
 Official encryption table:
 
-<img src="https://2.bp.blogspot.com/-I7vYjD6JvOc/WeDtXdFFEiI/AAAAAAAAAs0/GhjQUlLpV0gUvHYIxi5xWR-bPJIto93QwCLcBGAs/s1600/VIGNERE%2BTABLE.PNG" align="left" width="400">
+<img src="https://2.bp.blogspot.com/-I7vYjD6JvOc/WeDtXdFFEiI/AAAAAAAAAs0/GhjQUlLpV0gUvHYIxi5xWR-bPJIto93QwCLcBGAs/s1600/VIGNERE%2BTABLE.PNG" align="left" width="600">
 
